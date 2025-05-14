@@ -1,13 +1,4 @@
-<HTML>
-<HEAD>
-<TITLE>página2</TITLE>
-<HEAD>
 
-<BODY>
-<CENTER><H1>tabla</H1></CENTER>
-<HR>
-</BODY>
-</HTML>
 <table border="1" cellpadding="5"
 cellspacing="0"width="50%">
 <tr>
